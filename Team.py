@@ -27,5 +27,3 @@ class Team:
         self.stadium_name = get_stadium_name(name)
        
        
-Team().hello 
-print(hello)
